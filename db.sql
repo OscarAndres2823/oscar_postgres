@@ -1,5 +1,5 @@
 CREATE DATABASE techzone;
-\c techzone -- Conectarse a la base de datos (PostgreSQL)
+\c techzone 
 
 -- Tabla Cliente
 CREATE TABLE cliente(
