@@ -29,7 +29,7 @@ los proveedores.
 
 A continuación se presenta el modelo E-R utilizado para el diseño de la base de datos:
 
-![Modelo ER](modelo_er.png)
+![alt text](image.png)
 
 ---
 
